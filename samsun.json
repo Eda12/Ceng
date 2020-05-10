@@ -1,4 +1,4 @@
-{"SAMSUN": [
+{"samsun": [
        {  "isim":"Bandırma Vapuru",
           "aciklama":"Büyük önder Mustafa Kemal Atatürk’ü ve kurmaylarını Samsun’a getiren Bandırma Vapuru’nun aslına uygun kopyası, Canik ilçesindeki Bandırma Plajı’nda sergileniyor."
           "foturl":"https://raw.githubusercontent.com/Eda12/Ceng/master/b.jpg"
@@ -47,4 +47,4 @@
           "aciklama":"Farklı zorluk tipindeki uzun pistleri ile dikkat çeken tesisin kayasız zemini kayakçılara rahatlık ve risksiz bir ortam sunuyor. Yılın değişik dönemlerinde şenliklerin düzenlendiği kayak merkezinin her yerinden Ladik Gölü görülebiliyor."
           "foturl":"https://raw.githubusercontent.com/Eda12/Ceng/master/m.jpg"
           }
-          
+        ]}  
